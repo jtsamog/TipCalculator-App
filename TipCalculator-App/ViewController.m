@@ -48,7 +48,6 @@
         }
     
     NSString *tip = [NSString stringWithFormat:@"Tip: $%0.2f", tipAmount];
-    //NSLog(@"Tip: $%0.2f", tipAmount);
     
     self.tipAmountLabel.text = tip;
     
