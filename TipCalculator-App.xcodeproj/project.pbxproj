@@ -58,14 +58,9 @@
 		302572D41F100FD300AD84D3 /* TipCalculator-App */ = {
 			isa = PBXGroup;
 			children = (
-				302572D81F100FD300AD84D3 /* AppDelegate.h */,
-				302572D91F100FD300AD84D3 /* AppDelegate.m */,
+				302572DE1F100FD300AD84D3 /* Main.storyboard */,
 				302572DB1F100FD300AD84D3 /* ViewController.h */,
 				302572DC1F100FD300AD84D3 /* ViewController.m */,
-				302572DE1F100FD300AD84D3 /* Main.storyboard */,
-				302572E11F100FD300AD84D3 /* Assets.xcassets */,
-				302572E31F100FD300AD84D3 /* LaunchScreen.storyboard */,
-				302572E61F100FD300AD84D3 /* Info.plist */,
 				302572D51F100FD300AD84D3 /* Supporting Files */,
 			);
 			path = "TipCalculator-App";
@@ -75,6 +70,11 @@
 			isa = PBXGroup;
 			children = (
 				302572D61F100FD300AD84D3 /* main.m */,
+				302572D81F100FD300AD84D3 /* AppDelegate.h */,
+				302572D91F100FD300AD84D3 /* AppDelegate.m */,
+				302572E11F100FD300AD84D3 /* Assets.xcassets */,
+				302572E31F100FD300AD84D3 /* LaunchScreen.storyboard */,
+				302572E61F100FD300AD84D3 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
